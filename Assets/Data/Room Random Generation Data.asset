@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7bbdd5431216b3e47af0b716d1b251b8, type: 3}
+  m_Name: Room Random Generation Data
+  m_EditorClassIdentifier: 
+  iterations: 10
+  walkLen: 40
+  startRandomIteration: 1
+  glitchedobject: {fileID: 8158405915384831737, guid: f5dc5d829e7bf5b4e82f4ee68a8314fb, type: 3}
+  bosspoint: {fileID: 8158405915384831737, guid: f5269874b2698ef47bb96f1f6f9d69b5, type: 3}
+  item:
+  - {fileID: 1902254645367402571, guid: 0f8289885dd2c2345bcd0bde48287225, type: 3}
+  - {fileID: 4827700995826084762, guid: 993148f57f176664697e1cb118fdb2a0, type: 3}
+  - {fileID: 5834084304266569469, guid: 8eff6973ea1ca6046a6c943777a26cd8, type: 3}
